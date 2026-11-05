@@ -1,0 +1,108 @@
+origin,destination,transport,month,price,distance_km,hours,source,url
+Москва,Анапа,поезд плацкарт,11,4520.0,1648,33.1,tutu.ru,https://www.tutu.ru/poezda/Moskva/Anapa
+Москва,Анапа,поезд купе,11,5280.0,1648,33.1,tutu.ru,https://www.tutu.ru/poezda/Moskva/Anapa
+Уфа,Москва,поезд плацкарт,11,2940.0,1321,28.0,tutu.ru,https://www.tutu.ru/poezda/Ufa/Moskva/
+Уфа,Москва,поезд купе,11,4170.0,1321,28.0,tutu.ru,https://www.tutu.ru/poezda/Ufa/Moskva/
+Новосибирск,Байкал (Листвянка),поезд плацкарт,11,3840.0,1830,32.8,tutu.ru (до Иркутска),https://www.tutu.ru/poezda/vokzal_Novosibirsk-Glavnyy/vokzal_Irkutsk-Passazhirskiy/
+Новосибирск,Байкал (Листвянка),поезд купе,11,4200.0,1830,32.8,tutu.ru (до Иркутска),https://www.tutu.ru/poezda/vokzal_Novosibirsk-Glavnyy/vokzal_Irkutsk-Passazhirskiy/
+Москва,Кисловодск,поезд плацкарт,11,3370.0,1582,33.5,tutu.ru,https://www.tutu.ru/poezda/Moskva/Kislovodsk/
+Москва,Кисловодск,поезд купе,11,4580.0,1582,33.5,tutu.ru,https://www.tutu.ru/poezda/Moskva/Kislovodsk/
+Москва,Карелия,поезд плацкарт,11,3290.0,1021,15.8,tutu.ru (до Петрозаводска),https://www.tutu.ru/poezda/Moskva/Petrozavodsk-Pass/
+Москва,Карелия,поезд купе,11,3040.0,1021,15.8,tutu.ru (до Петрозаводска),https://www.tutu.ru/poezda/Moskva/Petrozavodsk-Pass/
+Екатеринбург,Сочи,поезд плацкарт,11,8340.0,3213,63.3,tutu.ru (до Адлера),https://www.tutu.ru/poezda/Ekaterinburg/Adler/
+Екатеринбург,Сочи,поезд купе,11,11010.0,3213,63.3,tutu.ru (до Адлера),https://www.tutu.ru/poezda/Ekaterinburg/Adler/
+Москва,Сочи,поезд плацкарт,11,5770.0,1817,30.0,travelask.ru (до Адлера),https://travelask.ru/railway/moscow-adler
+Москва,Сочи,поезд купе,11,6800.0,1817,30.0,travelask.ru (до Адлера),https://travelask.ru/railway/moscow-adler
+Москва,Казань,поезд купе,11,5450.0,718,12.0,Яндекс Путешествия,https://travel.yandex.ru/trains/moscow--kazan/
+Санкт-Петербург,Анапа,поезд плацкарт,7,7900.0,,,Фонтанка,https://www.fontanka.ru/2026/04/06/76351206/
+Санкт-Петербург,Анапа,поезд купе,7,14700.0,,,Фонтанка,https://www.fontanka.ru/2026/04/06/76351206/
+Санкт-Петербург,Сочи,поезд плацкарт,7,9000.0,,,Фонтанка,https://www.fontanka.ru/2026/04/06/76351206/
+Санкт-Петербург,Сочи,поезд купе,7,20000.0,,,Фонтанка,https://www.fontanka.ru/2026/04/06/76351206/
+Санкт-Петербург,Ейск,поезд плацкарт,6,6700.0,,,Фонтанка,https://www.fontanka.ru/2026/04/06/76351206/
+Санкт-Петербург,Махачкала,поезд купе,7,15750.0,,,Фонтанка,https://www.fontanka.ru/2026/04/06/76351206/
+Москва,Сочи,самолёт,1,5697.0,1362,3.7,aviasales.ru,https://www.aviasales.ru/routes/MOW/AER
+Москва,Сочи,самолёт,2,8981.0,1362,3.7,aviasales.ru,https://www.aviasales.ru/routes/MOW/AER
+Москва,Сочи,самолёт,3,7960.0,1362,3.7,aviasales.ru,https://www.aviasales.ru/routes/MOW/AER
+Москва,Сочи,самолёт,4,6113.0,1362,3.7,aviasales.ru,https://www.aviasales.ru/routes/MOW/AER
+Москва,Сочи,самолёт,5,6343.0,1362,3.7,aviasales.ru,https://www.aviasales.ru/routes/MOW/AER
+Москва,Сочи,самолёт,6,12627.0,1362,3.7,aviasales.ru,https://www.aviasales.ru/routes/MOW/AER
+Москва,Сочи,самолёт,7,16050.0,1362,3.7,aviasales.ru,https://www.aviasales.ru/routes/MOW/AER
+Москва,Сочи,самолёт,8,12799.0,1362,3.7,aviasales.ru,https://www.aviasales.ru/routes/MOW/AER
+Москва,Сочи,самолёт,9,7113.0,1362,3.7,aviasales.ru,https://www.aviasales.ru/routes/MOW/AER
+Москва,Сочи,самолёт,10,4642.0,1362,3.7,aviasales.ru,https://www.aviasales.ru/routes/MOW/AER
+Москва,Сочи,самолёт,11,5976.0,1362,3.7,aviasales.ru,https://www.aviasales.ru/routes/MOW/AER
+Москва,Сочи,самолёт,12,8170.0,1362,3.7,aviasales.ru,https://www.aviasales.ru/routes/MOW/AER
+Москва,Владивосток,самолёт,1,18710.0,6415,8.6,aviasales.ru,https://www.aviasales.ru/routes/MOW/VVO
+Москва,Владивосток,самолёт,2,16530.0,6415,8.6,aviasales.ru,https://www.aviasales.ru/routes/MOW/VVO
+Москва,Владивосток,самолёт,3,17302.0,6415,8.6,aviasales.ru,https://www.aviasales.ru/routes/MOW/VVO
+Москва,Владивосток,самолёт,4,21691.0,6415,8.6,aviasales.ru,https://www.aviasales.ru/routes/MOW/VVO
+Москва,Владивосток,самолёт,5,20493.0,6415,8.6,aviasales.ru,https://www.aviasales.ru/routes/MOW/VVO
+Москва,Владивосток,самолёт,6,21417.0,6415,8.6,aviasales.ru,https://www.aviasales.ru/routes/MOW/VVO
+Москва,Владивосток,самолёт,7,29632.0,6415,8.6,aviasales.ru,https://www.aviasales.ru/routes/MOW/VVO
+Москва,Владивосток,самолёт,8,21885.0,6415,8.6,aviasales.ru,https://www.aviasales.ru/routes/MOW/VVO
+Москва,Владивосток,самолёт,9,21843.0,6415,8.6,aviasales.ru,https://www.aviasales.ru/routes/MOW/VVO
+Москва,Владивосток,самолёт,10,18822.0,6415,8.6,aviasales.ru,https://www.aviasales.ru/routes/MOW/VVO
+Москва,Владивосток,самолёт,11,18685.0,6415,8.6,aviasales.ru,https://www.aviasales.ru/routes/MOW/VVO
+Москва,Владивосток,самолёт,12,16606.0,6415,8.6,aviasales.ru,https://www.aviasales.ru/routes/MOW/VVO
+Москва,Байкал (Листвянка),самолёт,1,13874.0,4202,5.8,aviasales.ru (до Иркутска),https://www.aviasales.ru/routes/MOW/IKT
+Москва,Байкал (Листвянка),самолёт,2,20314.0,4202,5.8,aviasales.ru (до Иркутска),https://www.aviasales.ru/routes/MOW/IKT
+Москва,Байкал (Листвянка),самолёт,3,14897.0,4202,5.8,aviasales.ru (до Иркутска),https://www.aviasales.ru/routes/MOW/IKT
+Москва,Байкал (Листвянка),самолёт,4,15195.0,4202,5.8,aviasales.ru (до Иркутска),https://www.aviasales.ru/routes/MOW/IKT
+Москва,Байкал (Листвянка),самолёт,5,15994.0,4202,5.8,aviasales.ru (до Иркутска),https://www.aviasales.ru/routes/MOW/IKT
+Москва,Байкал (Листвянка),самолёт,6,21461.0,4202,5.8,aviasales.ru (до Иркутска),https://www.aviasales.ru/routes/MOW/IKT
+Москва,Байкал (Листвянка),самолёт,7,30769.0,4202,5.8,aviasales.ru (до Иркутска),https://www.aviasales.ru/routes/MOW/IKT
+Москва,Байкал (Листвянка),самолёт,8,20764.0,4202,5.8,aviasales.ru (до Иркутска),https://www.aviasales.ru/routes/MOW/IKT
+Москва,Байкал (Листвянка),самолёт,9,15148.0,4202,5.8,aviasales.ru (до Иркутска),https://www.aviasales.ru/routes/MOW/IKT
+Москва,Байкал (Листвянка),самолёт,10,11636.0,4202,5.8,aviasales.ru (до Иркутска),https://www.aviasales.ru/routes/MOW/IKT
+Москва,Байкал (Листвянка),самолёт,11,10363.0,4202,5.8,aviasales.ru (до Иркутска),https://www.aviasales.ru/routes/MOW/IKT
+Москва,Байкал (Листвянка),самолёт,12,14450.0,4202,5.8,aviasales.ru (до Иркутска),https://www.aviasales.ru/routes/MOW/IKT
+Екатеринбург,Сочи,самолёт,1,6545.0,2081,3.9,aviasales.ru,https://www.aviasales.ru/routes/SVX/AER
+Екатеринбург,Сочи,самолёт,2,7368.0,2081,3.9,aviasales.ru,https://www.aviasales.ru/routes/SVX/AER
+Екатеринбург,Сочи,самолёт,3,7884.0,2081,3.9,aviasales.ru,https://www.aviasales.ru/routes/SVX/AER
+Екатеринбург,Сочи,самолёт,4,5479.0,2081,3.9,aviasales.ru,https://www.aviasales.ru/routes/SVX/AER
+Екатеринбург,Сочи,самолёт,5,6312.0,2081,3.9,aviasales.ru,https://www.aviasales.ru/routes/SVX/AER
+Екатеринбург,Сочи,самолёт,6,13018.0,2081,3.9,aviasales.ru,https://www.aviasales.ru/routes/SVX/AER
+Екатеринбург,Сочи,самолёт,7,16185.0,2081,3.9,aviasales.ru,https://www.aviasales.ru/routes/SVX/AER
+Екатеринбург,Сочи,самолёт,8,15085.0,2081,3.9,aviasales.ru,https://www.aviasales.ru/routes/SVX/AER
+Екатеринбург,Сочи,самолёт,9,7886.0,2081,3.9,aviasales.ru,https://www.aviasales.ru/routes/SVX/AER
+Екатеринбург,Сочи,самолёт,10,4092.0,2081,3.9,aviasales.ru,https://www.aviasales.ru/routes/SVX/AER
+Екатеринбург,Сочи,самолёт,11,4154.0,2081,3.9,aviasales.ru,https://www.aviasales.ru/routes/SVX/AER
+Екатеринбург,Сочи,самолёт,12,5257.0,2081,3.9,aviasales.ru,https://www.aviasales.ru/routes/SVX/AER
+Уфа,Сочи,самолёт,1,7154.0,1707,3.5,aviasales.ru,https://www.aviasales.ru/routes/UFA/AER
+Уфа,Сочи,самолёт,2,7830.0,1707,3.5,aviasales.ru,https://www.aviasales.ru/routes/UFA/AER
+Уфа,Сочи,самолёт,3,8863.0,1707,3.5,aviasales.ru,https://www.aviasales.ru/routes/UFA/AER
+Уфа,Сочи,самолёт,4,6148.0,1707,3.5,aviasales.ru,https://www.aviasales.ru/routes/UFA/AER
+Уфа,Сочи,самолёт,5,5786.0,1707,3.5,aviasales.ru,https://www.aviasales.ru/routes/UFA/AER
+Уфа,Сочи,самолёт,6,10340.0,1707,3.5,aviasales.ru,https://www.aviasales.ru/routes/UFA/AER
+Уфа,Сочи,самолёт,7,13251.0,1707,3.5,aviasales.ru,https://www.aviasales.ru/routes/UFA/AER
+Уфа,Сочи,самолёт,8,12395.0,1707,3.5,aviasales.ru,https://www.aviasales.ru/routes/UFA/AER
+Уфа,Сочи,самолёт,9,7795.0,1707,3.5,aviasales.ru,https://www.aviasales.ru/routes/UFA/AER
+Уфа,Сочи,самолёт,10,3668.0,1707,3.5,aviasales.ru,https://www.aviasales.ru/routes/UFA/AER
+Уфа,Сочи,самолёт,11,4605.0,1707,3.5,aviasales.ru,https://www.aviasales.ru/routes/UFA/AER
+Уфа,Сочи,самолёт,12,4559.0,1707,3.5,aviasales.ru,https://www.aviasales.ru/routes/UFA/AER
+Москва,Махачкала,самолёт,1,6247.0,1588,3.0,aviasales.ru,https://www.aviasales.ru/routes/MOW/MCX
+Москва,Махачкала,самолёт,2,5671.0,1588,3.0,aviasales.ru,https://www.aviasales.ru/routes/MOW/MCX
+Москва,Махачкала,самолёт,3,8176.0,1588,3.0,aviasales.ru,https://www.aviasales.ru/routes/MOW/MCX
+Москва,Махачкала,самолёт,4,5133.0,1588,3.0,aviasales.ru,https://www.aviasales.ru/routes/MOW/MCX
+Москва,Махачкала,самолёт,5,6735.0,1588,3.0,aviasales.ru,https://www.aviasales.ru/routes/MOW/MCX
+Москва,Махачкала,самолёт,6,13179.0,1588,3.0,aviasales.ru,https://www.aviasales.ru/routes/MOW/MCX
+Москва,Махачкала,самолёт,7,16982.0,1588,3.0,aviasales.ru,https://www.aviasales.ru/routes/MOW/MCX
+Москва,Махачкала,самолёт,8,10070.0,1588,3.0,aviasales.ru,https://www.aviasales.ru/routes/MOW/MCX
+Москва,Махачкала,самолёт,9,5323.0,1588,3.0,aviasales.ru,https://www.aviasales.ru/routes/MOW/MCX
+Москва,Махачкала,самолёт,10,7845.0,1588,3.0,aviasales.ru,https://www.aviasales.ru/routes/MOW/MCX
+Москва,Махачкала,самолёт,11,6656.0,1588,3.0,aviasales.ru,https://www.aviasales.ru/routes/MOW/MCX
+Москва,Махачкала,самолёт,12,7828.0,1588,3.0,aviasales.ru,https://www.aviasales.ru/routes/MOW/MCX
+Москва,Камчатка,самолёт,1,18619.0,6770,8.8,aviasales.ru (обратное направление),https://www.aviasales.ru/routes/PKC/MOW
+Москва,Камчатка,самолёт,2,18592.0,6770,8.8,aviasales.ru (обратное направление),https://www.aviasales.ru/routes/PKC/MOW
+Москва,Камчатка,самолёт,3,16438.0,6770,8.8,aviasales.ru (обратное направление),https://www.aviasales.ru/routes/PKC/MOW
+Москва,Камчатка,самолёт,4,21681.0,6770,8.8,aviasales.ru (обратное направление),https://www.aviasales.ru/routes/PKC/MOW
+Москва,Камчатка,самолёт,5,21680.0,6770,8.8,aviasales.ru (обратное направление),https://www.aviasales.ru/routes/PKC/MOW
+Москва,Камчатка,самолёт,6,21655.0,6770,8.8,aviasales.ru (обратное направление),https://www.aviasales.ru/routes/PKC/MOW
+Москва,Камчатка,самолёт,7,21703.0,6770,8.8,aviasales.ru (обратное направление),https://www.aviasales.ru/routes/PKC/MOW
+Москва,Камчатка,самолёт,8,21843.0,6770,8.8,aviasales.ru (обратное направление),https://www.aviasales.ru/routes/PKC/MOW
+Москва,Камчатка,самолёт,9,21843.0,6770,8.8,aviasales.ru (обратное направление),https://www.aviasales.ru/routes/PKC/MOW
+Москва,Камчатка,самолёт,10,21843.0,6770,8.8,aviasales.ru (обратное направление),https://www.aviasales.ru/routes/PKC/MOW
+Москва,Камчатка,самолёт,11,18639.0,6770,8.8,aviasales.ru (обратное направление),https://www.aviasales.ru/routes/PKC/MOW
+Москва,Камчатка,самолёт,12,18639.0,6770,8.8,aviasales.ru (обратное направление),https://www.aviasales.ru/routes/PKC/MOW
+Москва,Калининград,самолёт,10,7200.0,1091,1.8,OneTwoTrip (октябрь),https://www.onetwotrip.com/ru/aviabilety/MOW_KGD/
+Москва,Кисловодск,самолёт,10,5560.0,1360,2.9,OneTwoTrip (до Минвод),https://www.onetwotrip.com/ru/aviabilety/MOW_MRV/

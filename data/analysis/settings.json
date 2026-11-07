@@ -1,0 +1,15 @@
+{
+    "fuel_price_ai95": 81.03,
+    "fuel_consumption": 8.0,
+    "car_speed_kmh": 70,
+    "bus_speed_kmh": 60,
+    "train_speed_kmh": 65,
+    "plane_speed_kmh": 750,
+    "road_coef": 1.2,
+    "rail_coef": 1.3,
+    "max_car_km": 3500,
+    "max_bus_km": 1200,
+    "train_formula": "плацкарт = 66 + 2.54 * км (осень)",
+    "kupe_ratio_autumn": 1.18,
+    "plane_formula": "самолёт = 4332 + 2.49 * км (средняя за год)"
+}
